@@ -28,6 +28,12 @@ class NotificationController {
   @pragma("vm:entry-point")
   static Future <void> onDismissActionReceivedMethod(ReceivedAction receivedAction) async {
     // Your code goes here
+  }
+
+  /// Use this method to detect when the user taps on a notification or action button
+  @pragma("vm:entry-point")
+  static Future <void> onActionReceivedMethod(ReceivedAction receivedAction) async {
+    // Your code goes here
     final controller = NotificationController();
 
     if (receivedAction.payload != null) {
@@ -42,11 +48,5 @@ class NotificationController {
         );
       }
     }
-  }
-
-  /// Use this method to detect when the user taps on a notification or action button
-  @pragma("vm:entry-point")
-  static Future <void> onActionReceivedMethod(ReceivedAction receivedAction) async {
-    // Your code goes here
   }
 }
