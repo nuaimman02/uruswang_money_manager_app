@@ -1,6 +1,7 @@
 # uruswang_money_manager_app
 
 Developed by: Nu'aimman Dinie bin Roslan Ismani
+
 A Flutter app development project to fulfil FYP Requirements as a condition to receive Bachelor in Computer Science, UPM.
 
 ## Experience when Developing Project
@@ -18,7 +19,7 @@ A Flutter app development project to fulfil FYP Requirements as a condition to r
 5. Please keep calm and try not to cry even the project is hard. Remember Allah, family and even the loved ones everywhere.
    Think that you very close to the top of the peak.
 
-
+<!--
 ## Getting Started (Flutter-Generated)
 
 This project is a starting point for a Flutter application.
@@ -31,3 +32,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+-->
