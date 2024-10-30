@@ -1,4 +1,4 @@
-# uruswang_money_manager_app
+# UrusWang Money Manager App
 
 Developed by: Nu'aimman Dinie bin Roslan Ismani
 
