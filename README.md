@@ -1,8 +1,8 @@
-# uruswang_money_manager_app
+# UrusWang Money Manager App
 
 Developed by: Nu'aimman Dinie bin Roslan Ismani
 
-A Flutter app development project to fulfil FYP Requirements as a condition to receive Bachelor in Computer Science, UPM.
+A Flutter app development project to fulfill FYP Requirements as a condition to be awarded Bachelor in Computer Science with Honours, UPM.
 
 ## Experience when Developing Project
 
