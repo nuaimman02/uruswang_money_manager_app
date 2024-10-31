@@ -75,16 +75,16 @@ class _TransactionsPageState extends State<TransactionsPage> {
   void _subtractMonth() {
     setState(() {
       _selectedDate = DateTime(_selectedDate.year, _selectedDate.month - 1);
+      _getIncomeExpenseAndTotalBalance();
     });
-    _getIncomeExpenseAndTotalBalance();
   }
 
   // Function to add a month
   void _addMonth() {
     setState(() {
       _selectedDate = DateTime(_selectedDate.year, _selectedDate.month + 1);
+      _getIncomeExpenseAndTotalBalance();
     });
-    _getIncomeExpenseAndTotalBalance();
   }
 
   @override
