@@ -103,16 +103,16 @@ class _DebtsPageState extends State<DebtsPage> {
   void _subtractMonth() {
     setState(() {
       _selectedDate = DateTime(_selectedDate.year, _selectedDate.month - 1);
+      _getDebtsTotalAndBalances();
     });
-    _getDebtsTotalAndBalances();
   }
 
   // Function to add a month
   void _addMonth() {
     setState(() {
       _selectedDate = DateTime(_selectedDate.year, _selectedDate.month + 1);
+      _getDebtsTotalAndBalances();
     });
-    _getDebtsTotalAndBalances();
   }
 
   // Function to toggle between views (Borrowing and Lending)
