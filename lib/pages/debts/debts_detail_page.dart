@@ -563,7 +563,7 @@ class _DebtsDetailPageState extends State<DebtsDetailPage> {
                                   _transactionService.insertTransaction(transactionCompanion);
                                   _debtService.updateSettledDate(debtTransactionInitiator.debts!.debtId, DateTime.now());
 
-                                  if (debtTransactionInitiator.debts!.expectedToBeSettledDate!.isBefore(DateTime.now())) {
+                                  if (DateTime.now().isBefore(debtTransactionInitiator.debts!.expectedToBeSettledDate!)) {
                                     _debtService.cancelScheduledDebtNotification(debtTransactionInitiator.debts!.debtId);
                                   }
                                 } else {
