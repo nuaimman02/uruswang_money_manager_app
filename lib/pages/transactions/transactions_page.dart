@@ -28,6 +28,8 @@ class _TransactionsPageState extends State<TransactionsPage> {
   double totalExpenseOnCurrentMonth = 0.0;
   double totalBalanceOnCurrentMonth = 0.0;
 
+  // TODO: IMPLEMENT A NEW STREAM CODE TO LOAD TOTAL INCOME, TOTAL EXPENSE AND TOTAL BALANCE FOR NEXT AND PREVIOUS MONTH
+
   @override
   void initState() {
     // TODO: implement initState
