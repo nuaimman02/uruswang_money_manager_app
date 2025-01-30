@@ -1,8 +1,8 @@
 # UrusWang Money Manager App
 
-Developed by: Nu'aimman Dinie Roslan Ismani
-/nSupervisor: Dr. Muhammad Daniel Hafiz Abdullah
-/nAccessors: Prof. Madya Dr. Teh Noranis Mohd Aris and Dr. Syaifulnizam Abd Manaf
+Developed by: Nu'aimman Dinie Roslan Ismani__
+Supervisor: Dr. Muhammad Daniel Hafiz Abdullah__
+Accessors: Prof. Madya Dr. Teh Noranis Mohd Aris and Dr. Syaifulnizam Abd Manaf
 
 A Flutter app development project to fulfill FYP Requirements as a condition to be awarded Bachelor in Computer Science with Honours, UPM.
 
