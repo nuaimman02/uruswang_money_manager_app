@@ -1,6 +1,6 @@
 # UrusWang Money Manager App
 
-Developed by: Nu'aimman Dinie bin Roslan Ismani
+Developed by: Nu'aimman Dinie Roslan Ismani
 Supervisor: Dr. Muhammad Daniel Hafiz Abdullah
 Accessors: Prof. Madya Dr. Teh Noranis Mohd Aris and Dr. Syaifulnizam Abd Manaf
 
