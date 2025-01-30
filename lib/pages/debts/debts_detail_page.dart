@@ -676,24 +676,24 @@ class _DebtsDetailPageState extends State<DebtsDetailPage> {
                     const Text('Delete'),
                   ],
                 ),
-                Column(
-                  children: [
-                    IconButton.outlined(
-                      onPressed: () {
-                        _debtService.triggerDebtNotification(
-                          debtTransactionInitiator.transactions.debtId!, 
-                          debtTransactionInitiator.transactions.transactionName, 
-                          debtTransactionInitiator.debts!.peopleName, 
-                          debtTransactionInitiator.categories.categoryName, 
-                          debtTransactionInitiator.transactions.value, 
-                          debtTransactionInitiator.debts!.expectedToBeSettledDate!);
-                      },
-                      icon: const Icon(Icons.notification_add),
-                      iconSize: 40,
-                    ),
-                    const Text('Notify Test', textAlign: TextAlign.center,),
-                  ],
-                ),
+                // Column( //Uncomment for developer release, Comment for user release
+                //   children: [
+                //     IconButton.outlined(
+                //       onPressed: () {
+                //         _debtService.triggerDebtNotification(
+                //           debtTransactionInitiator.transactions.debtId!, 
+                //           debtTransactionInitiator.transactions.transactionName, 
+                //           debtTransactionInitiator.debts!.peopleName, 
+                //           debtTransactionInitiator.categories.categoryName, 
+                //           debtTransactionInitiator.transactions.value, 
+                //           debtTransactionInitiator.debts!.expectedToBeSettledDate!);
+                //       },
+                //       icon: const Icon(Icons.notification_add),
+                //       iconSize: 40,
+                //     ),
+                //     const Text('Notify Test', textAlign: TextAlign.center,),
+                //   ],
+                // ),
               ],
             ),
           ],
