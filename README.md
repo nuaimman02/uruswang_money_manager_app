@@ -6,10 +6,9 @@ Accessors: Prof. Madya Dr. Teh Noranis Mohd Aris and Dr. Syaifulnizam Abd Manaf
 
 A Flutter app development project to fulfill FYP Requirements as a condition to be awarded Bachelor in Computer Science with Honours, UPM.
 
-In my country, Malaysia, Malaysians tend to borrow and lend others money. Based on my research until October 2024, there is no application that have centralized both of the transactions tracking. Each of them may have tracking normal transactions, tracking budgets, and display graphs and summaries while another only tracking debts. So, I have a vision to build this app to integrate normal transactions and debt-related transactions. And now, here you are, this little basic applications that tracks both normal and debt-related transactions while
-tracking budgets and showing graphs and summaries.
+In my country, Malaysia, Malaysians tend to borrow and lend others money. Based on my research until July 2024, there is no application that have centralized both of the transactions tracking. Each of them may have tracking normal transactions, tracking budgets, and display graphs and summaries while another only tracking debts. So, I have a vision to build this app to integrate normal transactions and debt-related transactions. And now, here you are, this little basic applications that tracks both normal and debt-related transactions while tracking budgets and showing graphs and summaries.
 
-This project has successfully presented on 1400 hrs, on 27th January, 2025 at Bilik Mesyuarat C, FSKTM UPM. Thus, the maintenance of this project halted since this day. You are welcomed to improve this application and make it shine.
+This project has successfully presented on 1400 hrs, on 27th January, 2025 at Bilik Mesyuarat C, FSKTM UPM. Thus, the maintenance of this project halted since that day. You are welcomed to improve this application and make it shine.
 
 ## Experience when Developing Project
 
