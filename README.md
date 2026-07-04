@@ -107,6 +107,7 @@ The developer shared valuable insights from the project journey:
 
 ## Contributors
 **Developer**: Nu'aimman Dinie Roslan Ismani
+
 **Supervisor**: Dr. Muhammad Daniel Hafiz Abdullah
 
 **Accessors**: 
