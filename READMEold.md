@@ -24,7 +24,6 @@ This project has successfully presented on 1400 hrs, on 27th January, 2025 at Bi
    understand the source code even more if the source code is not commented. Better to develop it from scratch.
 5. Please keep calm and try not to cry even the project is hard. Remember Allah, family and even the loved ones everywhere.
    Think that you very close to the top of the peak.
-
 <!--
 ## Getting Started (Flutter-Generated)
 
